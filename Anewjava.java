@@ -1,10 +1,20 @@
-public  package newjava;
+ package newjava;
 
-class Anewjava {
+public class Anewjava {
+    static int j = 2;
+
+     
+
     public static void main(String[] args) {
-        System.out.println("sdfsdf");
-        System.out.println("new dfs");
+        // System.out.println("sdfsdf");
+        // System.out.println("new dfs");
+
+        // for (int i = 0; i < 10; i++){
+        //     System.out.println(i);
+        // }
+         j++;
         
+         
     }
 
     
